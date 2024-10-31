@@ -1,4 +1,4 @@
-namespace AngularApi.Models;
+namespace AngularApp.Infrastructure.Models;
 
 public class ErrorViewModel
 {

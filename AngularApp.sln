@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularApi", "AngularApi\AngularApi.csproj", "{10878E8A-7E27-4E38-9E93-93AA3D12C067}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularApp.Infrastructure", "AngularApp.Infrastructure\AngularApp.Infrastructure.csproj", "{10878E8A-7E27-4E38-9E93-93AA3D12C067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularApp.Entities", "AngularApp.Entities\AngularApp.Entities.csproj", "{C5DFAF77-6FE1-4300-86C5-740364F79EBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{10878E8A-7E27-4E38-9E93-93AA3D12C067}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10878E8A-7E27-4E38-9E93-93AA3D12C067}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10878E8A-7E27-4E38-9E93-93AA3D12C067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DFAF77-6FE1-4300-86C5-740364F79EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DFAF77-6FE1-4300-86C5-740364F79EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DFAF77-6FE1-4300-86C5-740364F79EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DFAF77-6FE1-4300-86C5-740364F79EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

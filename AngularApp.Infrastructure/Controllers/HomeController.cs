@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using AngularApi.Models;
+using AngularApp.Infrastructure.Models;
 
-namespace AngularApi.Controllers;
+namespace AngularApp.Infrastructure.Controllers;
 
 public class HomeController : Controller
 {
